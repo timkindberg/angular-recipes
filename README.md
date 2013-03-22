@@ -11,3 +11,9 @@ book as recipe.
 I want to make this book community-driven!**
 
 ## Notes
+
+### Bootstrapping Angular
+
+* Using ng-app
+* Using angular.bootstrap()
+
