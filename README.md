@@ -12,6 +12,10 @@ I want to make this book community-driven!**
 
 ## Notes
 
+### Installing Angular
+* Using angular-seed
+* Using Yeoman
+
 ### Bootstrapping Angular
 
 * Using ng-app
