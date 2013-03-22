@@ -15,9 +15,19 @@ I want to make this book community-driven!**
 ### Installing Angular
 * Using angular-seed
 * Using Yeoman
+* Using ngboostrap
 
 ### Bootstrapping Angular
 
 * Using ng-app
 * Using angular.bootstrap()
+
+### Angular Constructs
+
+* Using ng-app
+* Using angular.bootstrap()
+
+### Testing Angular
+* Using Karma (previously Testacular) and Jasmine
+* How to set up on Windows so it works properly
 
