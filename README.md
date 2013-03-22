@@ -24,8 +24,9 @@ I want to make this book community-driven!**
 
 ### Angular Constructs
 
-* Using ng-app
-* Using angular.bootstrap()
+* Controllers
+* Directives
+* Services
 
 ### Testing Angular
 * Using Karma (previously Testacular) and Jasmine
